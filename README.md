@@ -63,3 +63,4 @@ Esta aplicación cumple con los siguientes requisitos:
 5.  Inicia el servidor de desarrollo con `npm run dev` o `yarn start`.
 6.  Abre tu navegador y navega en localhost
 
+# modulo6_ejercicioPractico1
